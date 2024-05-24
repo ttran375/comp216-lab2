@@ -1,5 +1,7 @@
 # Lab Exercise
 
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ttran375/comp216-lab4/blob/main/main.ipynb)
+
 ## Lecture 1
 
 ### Question 1
