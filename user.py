@@ -93,11 +93,16 @@ def main():
 
         try:
             # Invalid postal code
-            User("Alice", "Johnson", 20, "!@#$%^")
+            user6 = User("Alice", "Johnson", 20, "!@#$%^")
+            print(user6)
         except ValueError as e:
             print(f"Error: {e}")
 
         # Test with default postal code due to invalid input
+        user7 = User("Bob", "Brown", 20, "!@#$%^")
+        print(f"User 7: {user7.first_name} {user7.last_name}, Age: {
+              user7.age}, Postal Code: {user7.postal_code}")
+        
         user7 = User("Bob", "Brown", 20, "!@#$%^")
         print(f"User 7: {user7.first_name} {user7.last_name}, Age: {
               user7.age}, Postal Code: {user7.postal_code}")
