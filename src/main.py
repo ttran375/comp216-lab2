@@ -92,8 +92,8 @@ def main():
     print("Is triangle1 smaller than triangle2?",
           triangle1 < triangle2)
 
-    print("Sides of triangle1:")
-    for side in triangle1:
+    print("Sides of triangle2:")
+    for side in triangle2:
         print(side)
 
     print("Height of isosceles triangle:", isosceles_triangle.height())
