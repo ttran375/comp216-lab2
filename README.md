@@ -1,5 +1,7 @@
 # Lecture 2
 
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ttran375/comp216-lab2/blob/main/src/main.ipynb)
+
 ## Question 1
 
 Create a Triangle Class based on the following
