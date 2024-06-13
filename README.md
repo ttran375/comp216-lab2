@@ -196,16 +196,3 @@ Use the following as the input: `numbers = range(1, 75, 3)`.
 
 Afterwards, implement the same logic utilizing for loops and compare the
 difference in the compute time between the two approaches.
-
-## Lecture 4
-
-### Question 1
-
-Create a deployment model (UML notation) that depicts the
-following components of a web system:
-
-- Apache Web Server
-- Node.js App Server
-- Redis Server
-- MongoDB Server
-- Prometheus Server
